@@ -1,0 +1,7 @@
+name: MicroProject3
+mode: flutter
+files:
+  - name: main.dart
+  - name: solution.dart
+  - name: test.dart
+  - name: hint.txt
