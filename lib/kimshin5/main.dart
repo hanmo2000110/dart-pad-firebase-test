@@ -2,8 +2,8 @@ String stringify(int x, int y) {
   return '$x $y';
 }
 
-// testingbjkhiyufghljbkhvjgh
 
+// 소ㅑㄴ ㅑㄴ ㅅㄷㄴㅅ;ㅑㅣㄴㅇㅁ햐ㅕㅗㅈㄷㅁ
 void main() {
   try {
     final str = stringify(2, 3); 
