@@ -1,7 +1,7 @@
 dynamic main_test() {
-	int num;
+	int num = 10;
 
 	print(num);
 
-	return num.toString();
+	return num;
 }
