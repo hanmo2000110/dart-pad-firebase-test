@@ -1,3 +1,7 @@
-String stringify(int x, int y) {
-  return '$x $y';
+dynamic main_test() {
+	int num;
+
+	print(num);
+
+	return num.toString();
 }
